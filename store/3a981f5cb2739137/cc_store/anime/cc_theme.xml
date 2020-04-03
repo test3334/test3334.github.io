@@ -457,6 +457,139 @@
 		<selection type="nose" state_id="side_default" />
 		<selection type="facedecoration" state_id="side_default" />
 	</facial>
+		<facial id="head_eyenmouthclose_happy" name="Eye n Mouth Closed - Happy" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_happy" />
+		<selection type="eyebrow" state_id="side_happy" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_inlove" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+		<facial id="head_eyeopen_happy" name="Eye Open - Happy" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_default" />
+		<selection type="eyebrow" state_id="side_happy" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_happy" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+		<facial id="head_eyecam_happy" name="Eye Open - Look at Cam - Happy" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_lookcam" />
+		<selection type="eyebrow" state_id="side_happy" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_happy" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+		<facial id="head_eyedown_happy" name="Eye Open - Look Down - Happy" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_lookdown" />
+		<selection type="eyebrow" state_id="side_happy" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_happy" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+		<facial id="head_eyeup_happy" name="Eye Open - Look Up - Happy" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_lookup" />
+		<selection type="eyebrow" state_id="side_happy" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_happy" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+		<facial id="head_horriblesmell" name="Something Smells Horrible" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_default" />
+		<selection type="eyebrow" state_id="side_confused" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_sad" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+		<facial id="head_disgusted" name="Disgusted" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_default" />
+		<selection type="eyebrow" state_id="side_confused" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_sad" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+	<facial id="head_mouthclose_wink" name="Wink Mouth Closed" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_wink" />
+		<selection type="eyebrow" state_id="side_default" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_inlove" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+	<facial id="headlookup_sad" name="Look Up Sad" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_lookup" />
+		<selection type="eyebrow" state_id="side_sad" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_sad" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+	<facial id="headlookcam_sad" name="Look at Camera Sad" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_lookcam" />
+		<selection type="eyebrow" state_id="side_sad" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_sad" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+	<facial id="headlookdown_sad" name="Look Down Sad" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_lookdown" />
+		<selection type="eyebrow" state_id="side_sad" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_sad" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+	<facial id="head_schemeing" name="Schemeing" enable="Y">
+		<selection type="ear" state_id="side_default" />
+		<selection type="eye" state_id="side_angry" />
+		<selection type="eyebrow" state_id="side_angry" />
+		<selection type="faceshape" state_id="side_default" />
+		<selection type="glasses" state_id="side_default" />
+		<selection type="hair" state_id="side_default" />
+		<selection type="mouth" state_id="side_happy" />
+		<selection type="nose" state_id="side_default" />
+		<selection type="facedecoration" state_id="side_default" />
+	</facial>
+	
 
 	<bodyshape id="guy" name="Guy" default_action="guy_stand01_still" default_motion="guy_walk" action_thumb="guy_stand01_still" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y" tag="guy">
 		<default_char>
@@ -3155,3 +3288,4 @@
 	</template>
 
 </cc_theme>
+
